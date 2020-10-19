@@ -1,4 +1,4 @@
-# Talos Android Events App
+# Talos Events - Android
 
 
 ## Developed by:

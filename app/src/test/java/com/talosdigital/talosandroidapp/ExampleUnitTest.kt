@@ -1,4 +1,4 @@
-package com.talosdigital.talosandroidapp
+package com.talosdigital.talosAndroidApp
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.talosdigital.talosandroidapp
+package com.talosdigital.talosAndroidApp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.talosdigital.talosandroidapp", appContext.packageName)
+        assertEquals("com.talosdigital.talosAndroidApp", appContext.packageName)
     }
 }
